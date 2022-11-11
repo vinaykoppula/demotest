@@ -1,3 +1,6 @@
-class Demo{
+
+public class Demo{
+   
+
 
 }
